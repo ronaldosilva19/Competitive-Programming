@@ -1,2 +1,2 @@
-### Usando a linguagem C++ para a Maratona de Programação.
-O objetivo deste repositório é estudar de forma mais detalhista a Linguagem C++ para usá-la na Maratona de Programação.
+### Using the C++ language for the Programming Marathon.
+The purpose of this repository is to study the C++ Language in more detail to use it in the Programming Marathon.
