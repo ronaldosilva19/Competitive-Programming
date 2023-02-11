@@ -1,6 +1,7 @@
 //
 // Created by ronal on 2/11/2023.
 // Problem description link.
+// https://practice.geeksforgeeks.org/problems/reverse-squared-sum/0
 //
 
 #include <iostream>
