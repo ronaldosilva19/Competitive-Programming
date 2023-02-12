@@ -1,3 +1,3 @@
-#### Os prroblemas foram retirados de sites como:
-* Hackerrank, GeeksforGeeks e LeetCode.
-* Cada códico-fote das resoluções possui o link direto para a descrição do problema.
+#### The problems were taken from sites like:
+* Hackerrank, GeeksforGeeks and LeetCode.
+* Each resolution source code has a direct link to the problem description.
