@@ -3,11 +3,8 @@
 // Problem Description Link.
 // https://www.hackerrank.com/challenges/cpp-lower-bound/copy-from/307592352
 
-#include <cmath>
-#include <cstdio>
-#include <vector>
-#include <iostream>
-#include <algorithm>
+#include <bits/stdc.h>
+
 using namespace std;
 
 
