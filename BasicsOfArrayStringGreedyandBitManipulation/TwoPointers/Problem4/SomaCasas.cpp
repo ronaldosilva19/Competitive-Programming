@@ -1,4 +1,5 @@
-// create to ronaldo 03/14/2023
+// 
+// Created by ronaldo on 14/03/23.
 // Problem link description.
 // https://br.spoj.com/problems/SOMA12/
 
