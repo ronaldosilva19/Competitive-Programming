@@ -3,6 +3,9 @@
 // Problem link description.
 // https://leetcode.com/problems/find-the-duplicate-number/
 
+#include <bits/stdc++.h>
+
+using namespace std;
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {

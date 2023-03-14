@@ -3,6 +3,9 @@
 // Problem link description.
 // https://leetcode.com/problems/two-sum/description/
 
+#include <bits/stdc++.h>
+
+using namespace std;
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {

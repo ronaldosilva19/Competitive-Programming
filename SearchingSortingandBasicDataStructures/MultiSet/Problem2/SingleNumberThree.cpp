@@ -3,6 +3,10 @@
 // Problem Link description.
 // https://leetcode.com/problems/single-number-iii/
 
+#include <bits/stdc++.h>
+
+using namespace std;
+
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {

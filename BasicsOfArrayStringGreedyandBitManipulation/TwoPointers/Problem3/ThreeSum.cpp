@@ -3,6 +3,9 @@
 // Problem link description.
 // https://leetcode.com/problems/3sum/
 
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
@@ -33,6 +36,7 @@ public:
 
         /* Method 2 : Two Pointers. Efficient. Complexity O(n2). */
 
+        vector<vector<int>> output;
          int begin;
          int end;
 
