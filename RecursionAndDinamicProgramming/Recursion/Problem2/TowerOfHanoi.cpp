@@ -16,7 +16,6 @@ public:
 
     // avoid space at the starting of the string in "move disk....."
     long long toh(int N, int from, int to, int aux) {
-        long long count;
         if(N == 0){
             return 0;
         }else{
