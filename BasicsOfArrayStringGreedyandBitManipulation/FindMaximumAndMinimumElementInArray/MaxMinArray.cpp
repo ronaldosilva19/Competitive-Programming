@@ -3,7 +3,9 @@
 // Problem description link.
 // https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1?category%5B%5D=Arrays&category%5B%5D=Arrays&page=1&query=category%5B%5DArrayspage1category%5B%5DArrays
 
+#include <bits/stdc++.h>
 
+using namespace std;
 
 pair<long long, long long> getMinMax(long long a[], int n) {
     pair<long long int, long long int> two;
